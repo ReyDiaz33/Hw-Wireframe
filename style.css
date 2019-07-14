@@ -4,7 +4,7 @@ body{
     width: 960px;
     font-size: 18px;
     background-color: #777;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 10%
 }
 
@@ -12,9 +12,9 @@ header{
     background-color: #ebebeb;
     text-align: center;
     font-size: 15px;
-    padding: 20px;
-    width:
-
+    padding: 30px;
+    width:75%;
+    margin: 5px
 }
 
 nav{
@@ -22,7 +22,8 @@ nav{
     text-align: center;
     font-size: 15px;
     margin: 5px;
-    padding: 20px
+    padding: 30px;
+    width: 75%;
 
 }
 
@@ -32,6 +33,7 @@ section{
     text-align: center;
     font-size: 15px;
     padding: 20px;
+    margin: 5px
     
     
 
@@ -60,11 +62,7 @@ aside{
     font-size: 15px;
     margin: 15px;
     margin-left: 15px;
-    position: relative;
-    width: 150px;
-
-    
-
+    float: right;
 }
 .wrapper{
     height: 100%
@@ -73,10 +71,13 @@ footer{
     background-color: #ebebeb;
     text-align: center;
     font-size: 15px;
-    padding: 20px;
+    padding: -100px;
     position: absolute; 
-    left: 0 ; right: 0; bottom: 0; 
-    height:[footer-height] 
+    margin-top: 10px;
+    margin: 5px;
+    height: 100px;
+    width: 69%;
+    clear: both
     
     
     
