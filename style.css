@@ -19,20 +19,12 @@ section, aside {
 header{
     background-color: #ebebeb;
     text-align: center;
-    /* font-size: 15px; */
-    /* padding: 30px; */
-    /*width:75%;*/
-    /* margin: 5px */
+
 }
 
 nav{
     background-color: #ebebeb;
     text-align: center;
-    /* font-size: 15px; */
-    /* margin: 5px; */
-    /* margin-bottom: 12px; */
-    /* padding: 30px; */
-    /*width: 75%;*/
 
 }
 
@@ -48,17 +40,11 @@ section{
     margin-right: 20px;
     margin-bottom: 20px;
     padding: 30px 10px 10px 10px;
-    /* font-size: 15px; */
-    /* padding: 15px; */
-    /* margin: 5px */
 }
 
 aside{
     background-color: #ebebeb;
     text-align: center;
-    /* font-size: 15px; */
-    /* margin: 15px; */
-    /* margin-left: 15px; */
     padding-top: 20px;
     float: left;
     width: 445px;
@@ -69,7 +55,6 @@ article{
     color: #ebebeb;
     background-color: #777;
     text-align: center;
-    /* font-size: 15px; */
     padding: 20px;
     margin-top: 20px;
 }
@@ -79,7 +64,6 @@ h1,p{
     background-color: #ebebeb;
     text-align: center;
     margin: 0px 0px 10px 0px;
-    /* font-size: 15px; */
     padding: 20px;
 }
 
@@ -92,15 +76,5 @@ h1{
 footer{
     background-color: #ebebeb;
     text-align: center;
-    /* font-size: 15px; */
-    /* padding: -100px; */
-    /* position: absolute;  */
-    /* margin-top: 10px; */
-    /* margin: 5px; */
-    /*height: 100px;
-    /* width: 69%; */
     clear: both;
-    
-    
-    
 }
